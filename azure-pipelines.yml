@@ -15,7 +15,7 @@ variables:
   webAppName: 'ah-hellowworld-njs-6397'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'helloworld-njs-plan'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
